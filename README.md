@@ -1,2 +1,2 @@
 # react-sticky-table
-Created with CodeSandbox
+A sticky positioned table built for React
